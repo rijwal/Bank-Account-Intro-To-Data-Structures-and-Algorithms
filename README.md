@@ -1,0 +1,1 @@
+Functional Bank Account which allows multiple users to deposit and withdraw money into their accounts. They are able to view their balance as well. This project was built using object-oritented programming alongside Java's graphical user interface.
